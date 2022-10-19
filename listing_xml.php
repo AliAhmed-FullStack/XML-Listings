@@ -8,7 +8,7 @@
  * registers the activation and deactivation functions, and defines a function
  * that starts the plugin.
  *
- * @link              subhan.live
+ * @link              ahmed.live
  * @since             1.0.0
  * @package           Listing_xml
  *
@@ -17,8 +17,8 @@
  * Plugin URI:        listing_xml
  * Description:       This plugin will accept an XML file and save data to Database.
  * Version:           1.0.0
- * Author:            Subhan
- * Author URI:        subhan.test
+ * Author:            Ali Ahmed
+ * Author URI:        ahmed.test
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  * Text Domain:       listing_xml
