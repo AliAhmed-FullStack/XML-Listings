@@ -3,7 +3,7 @@
 /**
  * The public-facing functionality of the plugin.
  *
- * @link       subhan.live
+ * @link       ahmed.live
  * @since      1.0.0
  *
  * @package    Listing_xml
@@ -18,7 +18,7 @@
  *
  * @package    Listing_xml
  * @subpackage Listing_xml/public
- * @author     Subhan <subhan.naveed@devsinc.com>
+ * @author     Ahmed <mail.ahmed.se@gmail.com>
  */
 class Listing_xml_Public {
 
